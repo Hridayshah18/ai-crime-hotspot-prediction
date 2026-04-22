@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+h3
+folium
+streamlit
+shap
+prophet
+
+# How to install all
+pip install -r requirements.txt
